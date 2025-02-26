@@ -1,1 +1,2 @@
-Bonjour, je suis dans le répertoire enfant.
+Bonjour, je suis dans le répertoire enfant. 
+Petite modif s'impose
